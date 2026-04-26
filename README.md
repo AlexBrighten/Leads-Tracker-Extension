@@ -45,6 +45,10 @@ Since this is a developer extension, you can install it manually in Chrome:
 └── icon.png        # Extension icon
 ```
 
+## 🙏 Acknowledgments
+
+A huge shout-out to [Scrimba](https://github.com/scrimba) for the project inspiration. This project was developed as part of their **Full Stack Development** course in the **JS Fundamentals** module.
+
 ---
 
 *Happy lead hunting!*
