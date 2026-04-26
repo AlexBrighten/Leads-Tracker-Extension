@@ -1,0 +1,25 @@
+body {
+    margin: 5px;
+    width: 360px;
+    background-color: antiquewhite;
+}
+
+input {
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    border: 0;
+    padding: 10px;
+}
+
+button {
+    border: 0;
+    background-color: #5f9341;
+    color: white;
+    padding: 10px 20px;
+    font-weight: bold;
+}
+
+#delete-btn {
+    background-color: red;
+}
