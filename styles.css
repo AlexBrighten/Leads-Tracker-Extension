@@ -23,3 +23,16 @@ button {
 #delete-btn {
     background-color: red;
 }
+
+ul {
+    list-style: none;
+    padding-left: 2px;
+}
+
+li {
+    margin-top: 5px;
+}
+
+a {
+    color: red;
+}
